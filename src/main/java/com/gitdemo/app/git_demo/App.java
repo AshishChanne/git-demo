@@ -14,6 +14,10 @@ public class App
 		{
 			System.out.println("Welcome");
 		}
+		else
+		{
+			System.out.println("Bye........");
+		}
 	}
 	
     public static void main( String[] args )
