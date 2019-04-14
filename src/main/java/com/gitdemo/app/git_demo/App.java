@@ -19,7 +19,10 @@ public class App
 			System.out.println("Bye........");
 		}
 	}
-	
+	public void addMethod()
+	{
+		System.out.println("Added by another developer");
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
